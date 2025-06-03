@@ -1,4 +1,4 @@
-Блог про Проверки по запросу:
+Блог про Проверки по запросу: [ссылка на пост](https://pingera.ru/tpost/938pefyi31-blog-post-zapuskaite-proverki-iz-vashego)
 
 ### Использование скрипта
 
